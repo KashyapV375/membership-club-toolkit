@@ -140,7 +140,34 @@ def main():
         w.writerow(["Email Address", "Full Name", "Subscribed"])
         w.writerows(news)
 
-    print(f"Wrote {len(signup_rows)} signup rows, {len(sales)} sales rows, {len(news)} newsletter rows to data/raw/")
+    # 4) survey responses, the way a form tool exports them: long question text as column names,
+    #    and people answering the same question in different ways ("4", "4/5", "four").
+    words = {1: "one", 2: "two", 3: "three", 4: "four", 5: "five"}
+    survey = []
+    for m in random.sample(members, 52):
+        base = {"Bronze": 3.4, "Silver": 3.9, "Gold": 4.4}[m["tier"]] - (0.9 if m["cancel"] else 0)
+        satisfaction = min(5, max(1, round(random.gauss(base, 0.8))))
+        recommend = min(10, max(0, round(satisfaction * 2 + random.gauss(-0.5, 1.2))))
+        contacts = max(0, round(random.gauss({"Bronze": 1.3, "Silver": 2.1, "Gold": 3.2}[m["tier"]], 0.9)))
+        style = random.random()
+        sat_text = str(satisfaction) if style < 0.6 else (f"{satisfaction}/5" if style < 0.8 else words[satisfaction])
+        rec_text = str(recommend) if random.random() < 0.85 else f"{recommend} - " + ("definitely" if recommend >= 9 else "maybe")
+        email = "" if random.random() < 0.15 else messy_email(m["email"])
+        day = TODAY - timedelta(days=random.randint(2, 40))
+        survey.append([day.isoformat(), email, messy_phone(m["phone"]), sat_text, rec_text, contacts])
+    survey += random.sample(survey, 5)                       # a few people answered twice
+    for i in range(3):                                       # and a few are not customers at all
+        survey.append([(TODAY - timedelta(days=5 + i)).isoformat(), f"visitor{i}@example.com", "",
+                       random.choice(["3", "4"]), random.choice(["6", "7"]), 0])
+    random.shuffle(survey)
+    with open("data/raw/survey_responses.csv", "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["Timestamp", "Email", "Phone", "How satisfied are you with the club? (1-5)",
+                    "How likely are you to recommend us? (0-10)", "About how many times did we contact you this year?"])
+        w.writerows(survey)
+
+    print(f"Wrote {len(signup_rows)} signup rows, {len(sales)} sales rows, {len(news)} newsletter rows "
+          f"and {len(survey)} survey rows to data/raw/")
 
 
 if __name__ == "__main__":
