@@ -1,0 +1,17 @@
+Cleaning report
+---------------
+Signup rows read:                 129
+Duplicate signups merged:         9
+Sales rows read:                  438
+Sales rows with no email:         92
+  ...matched to a person by phone: 90
+Duplicate newsletter rows removed: 6
+
+Final list: 125 people
+  members (active):    90
+  members (cancelled): 30
+  non-members:         5
+  missing an email:    2
+
+Check: total spent in clean list = $14,954.00
+       total in raw sales file   = $14,954.00
