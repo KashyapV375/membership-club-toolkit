@@ -1,0 +1,4 @@
+tier,members,active,churn_rate_pct,avg_months_stayed,monthly_fee,extra_spend_per_month,avg_order_value,total_revenue,value_per_member_month,value_per_member_so_far,share_of_revenue_pct
+Bronze,71,53,25.4,12.0,15,8.59,34.43,20134.82,23.59,283.08,41.2
+Silver,35,25,28.6,10.7,30,9.7,32.24,14907.21,39.7,424.79,30.5
+Gold,14,12,14.3,13.1,55,20.22,35.96,13780.22,75.22,985.38,28.2
