@@ -1,0 +1,11 @@
+Subject: {years} {year_word} as a member. Thank you, {first_name}!
+Hi {first_name},
+
+Next week marks {years} {year_word} since you joined the club as a {tier} member.
+
+To say thanks, there is a small anniversary gift waiting with your next order.
+Just mention this email at the counter or add the note "anniversary" at checkout.
+
+Thank you for sticking with us.
+
+The Club Team

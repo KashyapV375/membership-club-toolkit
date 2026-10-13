@@ -1,0 +1,16 @@
+customer_id,email,journey,subject,draft_file,approved
+C1001,diego.brooks51@example.com,welcome,"Welcome to the club, Diego!",welcome_C1001.txt,NO
+C1022,tara.garza14@example.com,anniversary,"2 years as a member. Thank you, Tara!",anniversary_C1022.txt,NO
+C1028,grace.kim30@example.com,anniversary,"2 years as a member. Thank you, Grace!",anniversary_C1028.txt,NO
+C1045,jordan.ortiz75@example.com,anniversary,"1 year as a member. Thank you, Jordan!",anniversary_C1045.txt,NO
+C1062,grace.rivera19@example.com,anniversary,"1 year as a member. Thank you, Grace!",anniversary_C1062.txt,NO
+C1064,lena.rivera8@example.com,welcome,"Welcome to the club, Lena!",welcome_C1064.txt,NO
+C1086,jordan.wood28@example.com,welcome,"Welcome to the club, Jordan!",welcome_C1086.txt,NO
+C1091,imani.brooks79@example.com,win_back,"We miss you, Imani",win_back_C1091.txt,NO
+C1093,sofia.carter59@example.com,win_back,"We miss you, Sofia",win_back_C1093.txt,NO
+C1095,elena.flores72@example.com,win_back,"We miss you, Elena",win_back_C1095.txt,NO
+C1098,caleb.hughes41@example.com,win_back,"We miss you, Caleb",win_back_C1098.txt,NO
+C1103,imani.kim31@example.com,win_back,"We miss you, Imani",win_back_C1103.txt,NO
+C1105,kevin.lopez15@example.com,win_back,"We miss you, Kevin",win_back_C1105.txt,NO
+C1110,noah.ortiz42@example.com,win_back,"We miss you, Noah",win_back_C1110.txt,NO
+C1119,yuki.wood60@example.com,win_back,"We miss you, Yuki",win_back_C1119.txt,NO
