@@ -7,19 +7,21 @@ For whoever runs this next.
 ```
 pip install -r requirements.txt
 python clean_customers.py
+python link_surveys.py
 python tier_value.py
 python email_journeys.py
 ```
 
-Run them in that order. Steps 2 and 3 read the file that step 1 writes.
+Run them in that order. The later steps read the file that step 1 writes.
 
 ## Using your own data
 
-Replace the three files in `data/raw/` with real exports. The column names have to match the sample files:
+Replace the files in `data/raw/` with real exports. The column names have to match the sample files:
 
 - `website_signups.csv`: signup_date, first_name, last_name, email, phone, tier, status, cancel_date
 - `pos_sales_export.csv`: order_id, order_date, customer_name, email, phone, item, amount
 - `newsletter_list.csv`: Email Address, Full Name, Subscribed
+- `survey_responses.csv`: Timestamp, Email, Phone, then one column per question. The script finds the questions by looking for the words "satisfied", "recommend" and "contact" in the column name, so the exact wording can change.
 
 If an export uses different names, rename the columns in the CSV or change the names at the top of the matching `load_` function in `clean_customers.py`.
 
