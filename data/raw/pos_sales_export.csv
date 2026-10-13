@@ -1,0 +1,439 @@
+order_id,order_date,customer_name,email,phone,item,amount
+1183,2024-04-26,"HUGHES, Nina",NINA.HUGHES85@EXAMPLE.COM,(210) 555-9466,Brewing class,35.00
+1042,2024-05-02,"TURNER, Marcus",marcus.turner17@example.com,210-555-5056,Brewing class,70.00
+1182,2024-05-19,"HUGHES, Nina",,(210) 555-9466,Sampler pack,48.00
+1322,2024-07-28,"CASTRO, Yuki",,210-555-5744,Pastry box,18.00
+1039,2024-08-02,"TURNER, Marcus",MARCUS.TURNER17@EXAMPLE.COM,2105555056,Gift box,42.00
+1219,2024-08-14,"PATEL, Noah",noah.patel65@example.com,210.555.8408,Mug,14.00
+1332,2024-08-18,"WOOD, Sam",sam.wood34@example.com,+1 210 555 6890,Gift box,84.00
+1296,2024-08-22,"TURNER, Sam",sam.turner93@example.com,+1 210 555 3371,Gift box,42.00
+1153,2024-08-30,"FLORES, Ben",ben.flores12@example.com,(210) 555-7485,Sampler pack,24.00
+1334,2024-09-01,"WOOD, Sam",,+1 210 555 6890,Sampler pack,24.00
+1127,2024-09-04,"MORGAN, Kevin",,+1 210 555 9899,Bag of coffee,16.00
+1206,2024-09-07,"PATEL, Noah",noah.patel65@example.com,210.555.8408,Bag of coffee,32.00
+1186,2024-09-11,"HUGHES, Nina",,210-555-9466,Brewing class,35.00
+1152,2024-09-14,"FLORES, Ben",ben.flores12@example.com,210-555-7485,Brewing class,35.00
+1178,2024-09-16,"ORTIZ, Noah",,210.555.5249,Sampler pack,24.00
+1040,2024-09-18,"TURNER, Marcus",marcus.turner17@example.com,210-555-5056,Mug,14.00
+1130,2024-09-21,"MORGAN, Kevin", Kevin.morgan19@example.com ,(210) 555-9899,Mug,14.00
+1339,2024-09-21,"WOOD, Sam",SAM.WOOD34@EXAMPLE.COM,210-555-6890,Gift box,84.00
+1131,2024-10-05,"MORGAN, Kevin",kevin.morgan19@example.com,2105559899,Bag of coffee,16.00
+1047,2024-10-18,"HUGHES, Elena", Elena.hughes52@example.com ,(210) 555-5552,Brewing class,35.00
+1132,2024-10-18,"MORGAN, Kevin",kevin.morgan19@example.com,(210) 555-9899,Sampler pack,24.00
+1077,2024-10-28,"FOSTER, Nina",nina.foster73@example.com,+1 210 555 6220,Gift box,42.00
+1342,2024-11-05,"RIVERA, Sam",,2105557162,Pastry box,18.00
+1330,2024-11-13,"WOOD, Sam",sam.wood34@example.com,2105556890,Gift box,42.00
+1123,2024-11-16,"MORGAN, Kevin", Kevin.morgan19@example.com ,+1 210 555 9899,Gift box,84.00
+1220,2024-11-20,"PATEL, Noah",,(210) 555-8408,Sampler pack,24.00
+1129,2024-11-21,"MORGAN, Kevin",kevin.morgan19@example.com,210-555-9899,Brewing class,35.00
+1210,2024-11-21,"PATEL, Noah",noah.patel65@example.com,+1 210 555 8408,Brewing class,70.00
+1266,2024-11-23,"SHAH, Luis",LUIS.SHAH56@EXAMPLE.COM,210.555.3674,Sampler pack,48.00
+1156,2024-11-26,"FLORES, Ben",ben.flores12@example.com,210-555-7485,Sampler pack,24.00
+1261,2024-11-30,"KIM, Grace",grace.kim30@example.com,+1 210 555 6614,Pastry box,18.00
+1069,2024-12-05,"BROOKS, Hannah",hannah.brooks11@example.com,210.555.3887,Gift box,84.00
+1148,2024-12-14,"KIM, Diego",diego.kim62@example.com,210-555-1031,Pastry box,36.00
+1179,2024-12-19,"ORTIZ, Noah", Noah.ortiz42@example.com ,2105555249,Sampler pack,24.00
+1286,2024-12-22,"LOPEZ, Marcus",,+1 210 555 1081,Bag of coffee,32.00
+1061,2024-12-27,"HUGHES, Elena",elena.hughes52@example.com,210-555-5552,Brewing class,35.00
+1352,2024-12-31,"MORGAN, Noah",noah.morgan55@example.com,210.555.1475,Sampler pack,24.00
+1273,2025-01-01,"WOOD, Carmen",,2105555619,Bag of coffee,16.00
+1116,2025-01-05,"MORGAN, Kevin",,+1 210 555 9899,Sampler pack,48.00
+1222,2025-01-06,"PATEL, Noah",,+1 210 555 8408,Sampler pack,24.00
+1079,2025-01-07,"FOSTER, Nina",nina.foster73@example.com,(210) 555-6220,Gift box,42.00
+1265,2025-01-08,"KIM, Grace",GRACE.KIM30@EXAMPLE.COM,2105556614,Gift box,84.00
+1092,2025-01-14,"FOSTER, Nina",,2105556220,Gift box,84.00
+1298,2025-01-14,"TURNER, Sam", Sam.turner93@example.com ,(210) 555-3371,Gift box,42.00
+1157,2025-01-16,"FLORES, Ben",ben.flores12@example.com,210-555-7485,Sampler pack,48.00
+1211,2025-01-16,"PATEL, Noah",noah.patel65@example.com,2105558408,Gift box,84.00
+1271,2025-01-17,"SHAH, Luis",LUIS.SHAH56@EXAMPLE.COM,210.555.3674,Mug,14.00
+1392,2025-01-19,"REYES, Marcus",marcus.reyes96@example.com,+1 210 555 7763,Bag of coffee,16.00
+1126,2025-01-20,"MORGAN, Kevin",kevin.morgan19@example.com,+1 210 555 9899,Mug,28.00
+1052,2025-01-22,"HUGHES, Elena",elena.hughes52@example.com,210-555-5552,Gift box,84.00
+1140,2025-01-30,"SHAH, Maya", Maya.shah61@example.com ,(210) 555-5246,Brewing class,35.00
+1396,2025-01-31,"REYES, Marcus",MARCUS.REYES96@EXAMPLE.COM,210.555.7763,Pastry box,36.00
+1214,2025-02-07,"PATEL, Noah", Noah.patel65@example.com ,210.555.8408,Bag of coffee,32.00
+1221,2025-02-07,"PATEL, Noah",noah.patel65@example.com,+1 210 555 8408,Brewing class,70.00
+1300,2025-02-08,"TURNER, Sam",sam.turner93@example.com,210-555-3371,Pastry box,36.00
+1299,2025-02-10,"TURNER, Sam",,+1 210 555 3371,Pastry box,36.00
+1151,2025-02-11,"FLORES, Ben",ben.flores12@example.com,210-555-7485,Bag of coffee,32.00
+1048,2025-02-16,"HUGHES, Elena",elena.hughes52@example.com,210.555.5552,Brewing class,35.00
+1026,2025-02-17,"FLORES, Andre",andre.flores44@example.com,210-555-6737,Mug,14.00
+1066,2025-02-18,"HUGHES, Elena",elena.hughes52@example.com,2105555552,Pastry box,36.00
+1070,2025-03-07,"BROOKS, Hannah",,210-555-3887,Sampler pack,24.00
+1118,2025-03-07,"MORGAN, Kevin", Kevin.morgan19@example.com ,+1 210 555 9899,Pastry box,18.00
+1216,2025-03-12,"PATEL, Noah",noah.patel65@example.com,(210) 555-8408,Sampler pack,48.00
+1272,2025-03-12,"SHAH, Luis",luis.shah56@example.com,210.555.3674,Gift box,42.00
+1340,2025-03-12,"RIVERA, Sam",SAM.RIVERA45@EXAMPLE.COM,210.555.7162,Mug,28.00
+1310,2025-03-13,"KIM, Sofia",sofia.kim10@example.com,(210) 555-3415,Mug,14.00
+1270,2025-03-14,"SHAH, Luis",luis.shah56@example.com,210-555-3674,Pastry box,18.00
+1023,2025-03-16,"FLORES, Andre",ANDRE.FLORES44@EXAMPLE.COM,2105556737,Brewing class,70.00
+1057,2025-03-20,"HUGHES, Elena",ELENA.HUGHES52@EXAMPLE.COM,2105555552,Brewing class,35.00
+1347,2025-03-24,"MORGAN, Noah",noah.morgan55@example.com,+1 210 555 1475,Mug,28.00
+1316,2025-03-25,"HUGHES, Grace",,+1 210 555 8640,Bag of coffee,16.00
+1414,2025-03-29,"ORTIZ, Hannah",hannah.ortiz5@example.com,(210) 555-5977,Gift box,42.00
+1343,2025-03-30,"RIVERA, Sam", Sam.rivera45@example.com ,2105557162,Pastry box,18.00
+1386,2025-03-30,"FLORES, Tom",tom.flores98@example.com,2105558372,Brewing class,70.00
+1263,2025-04-02,"KIM, Grace",,210-555-6614,Sampler pack,48.00
+1024,2025-04-03,"FLORES, Andre",andre.flores44@example.com,(210) 555-6737,Sampler pack,48.00
+1184,2025-04-03,"HUGHES, Nina",,(210) 555-9466,Pastry box,36.00
+1154,2025-04-09,"FLORES, Ben",BEN.FLORES12@EXAMPLE.COM,210-555-7485,Mug,28.00
+1063,2025-04-10,"HUGHES, Elena",elena.hughes52@example.com,2105555552,Sampler pack,24.00
+1290,2025-04-10,"BROOKS, Kevin",,210.555.7381,Brewing class,70.00
+1038,2025-04-11,"TURNER, Marcus",marcus.turner17@example.com,210.555.5056,Gift box,84.00
+1341,2025-04-15,"RIVERA, Sam",sam.rivera45@example.com,210-555-7162,Bag of coffee,16.00
+1093,2025-04-18,"FOSTER, Nina",nina.foster73@example.com,2105556220,Bag of coffee,16.00
+1059,2025-04-19,"HUGHES, Elena",elena.hughes52@example.com,210-555-5552,Pastry box,18.00
+1155,2025-04-21,"FLORES, Ben",,+1 210 555 7485,Pastry box,18.00
+1176,2025-04-21,"ORTIZ, Noah",NOAH.ORTIZ42@EXAMPLE.COM,+1 210 555 5249,Brewing class,35.00
+1142,2025-04-27,"SHAH, Maya",maya.shah61@example.com,2105555246,Brewing class,35.00
+1229,2025-04-27,"PATEL, Hannah",hannah.patel51@example.com,2105558983,Sampler pack,24.00
+1150,2025-04-30,"FLORES, Ben",,210.555.7485,Gift box,42.00
+1199,2025-05-04,"REYES, Sofia",sofia.reyes20@example.com,210-555-3823,Brewing class,35.00
+1336,2025-05-04,"WOOD, Sam", Sam.wood34@example.com ,(210) 555-6890,Gift box,42.00
+1138,2025-05-05,"SHAH, Maya", Maya.shah61@example.com ,(210) 555-5246,Brewing class,35.00
+1329,2025-05-08,"WOOD, Sam",sam.wood34@example.com,210-555-6890,Brewing class,35.00
+1354,2025-05-08,"MORGAN, Noah",,+1 210 555 1475,Bag of coffee,16.00
+1175,2025-05-09,"ORTIZ, Noah",noah.ortiz42@example.com,2105555249,Brewing class,70.00
+1019,2025-05-13,"FLORES, Andre",andre.flores44@example.com,210-555-6737,Pastry box,18.00
+1072,2025-05-14,"BROOKS, Hannah",hannah.brooks11@example.com,(210) 555-3887,Sampler pack,48.00
+1198,2025-05-14,"REYES, Sofia",SOFIA.REYES20@EXAMPLE.COM,+1 210 555 3823,Brewing class,70.00
+1372,2025-05-18,"NGUYEN, Elena",elena.nguyen27@example.com,(210) 555-9201,Bag of coffee,16.00
+1327,2025-05-27,"WOOD, Sam",sam.wood34@example.com,210-555-6890,Pastry box,18.00
+1380,2025-05-29,"NGUYEN, Elena", Elena.nguyen27@example.com ,210.555.9201,Pastry box,36.00
+1055,2025-05-30,"HUGHES, Elena",elena.hughes52@example.com,210-555-5552,Brewing class,35.00
+1297,2025-05-30,"TURNER, Sam",sam.turner93@example.com,210.555.3371,Sampler pack,24.00
+1010,2025-05-31,"GARZA, Tara", Tara.garza14@example.com ,210.555.4078,Pastry box,18.00
+1187,2025-06-03,"HUGHES, Nina", Nina.hughes85@example.com ,(210) 555-9466,Sampler pack,48.00
+1053,2025-06-04,"HUGHES, Elena",elena.hughes52@example.com,210-555-5552,Bag of coffee,32.00
+1356,2025-06-05,"MORGAN, Noah",,210-555-1475,Sampler pack,24.00
+1044,2025-06-08,"TURNER, Marcus",marcus.turner17@example.com,2105555056,Bag of coffee,32.00
+1196,2025-06-11,"REYES, Sofia",sofia.reyes20@example.com,210-555-3823,Brewing class,70.00
+1377,2025-06-14,"NGUYEN, Elena",ELENA.NGUYEN27@EXAMPLE.COM,210.555.9201,Mug,14.00
+1318,2025-06-16,"CASTRO, Yuki",yuki.castro3@example.com,210-555-5744,Mug,28.00
+1108,2025-06-17,"MORGAN, Sofia",sofia.morgan61@example.com,2105553012,Mug,14.00
+1192,2025-06-19,"REYES, Sofia",sofia.reyes20@example.com,210.555.3823,Gift box,42.00
+1014,2025-06-21,"CARTER, Andre",ANDRE.CARTER80@EXAMPLE.COM,(210) 555-4374,Sampler pack,24.00
+1207,2025-06-27,"PATEL, Noah",noah.patel65@example.com,+1 210 555 8408,Sampler pack,48.00
+1264,2025-06-29,"KIM, Grace", Grace.kim30@example.com ,210.555.6614,Gift box,42.00
+1076,2025-07-01,"FOSTER, Nina",,+1 210 555 6220,Brewing class,70.00
+1133,2025-07-06,"MORGAN, Kevin",KEVIN.MORGAN19@EXAMPLE.COM,+1 210 555 9899,Sampler pack,24.00
+1101,2025-07-08,"CARTER, Caleb",,(210) 555-2103,Brewing class,35.00
+1122,2025-07-08,"MORGAN, Kevin", Kevin.morgan19@example.com ,210-555-9899,Brewing class,35.00
+1115,2025-07-09,"MORGAN, Kevin", Kevin.morgan19@example.com ,(210) 555-9899,Mug,14.00
+1158,2025-07-10,"FLORES, Ben",,+1 210 555 7485,Gift box,42.00
+1323,2025-07-10,"CASTRO, Yuki",,210.555.5744,Mug,14.00
+1317,2025-07-15,"HUGHES, Grace",grace.hughes60@example.com,210-555-8640,Gift box,84.00
+1051,2025-07-16,"HUGHES, Elena",ELENA.HUGHES52@EXAMPLE.COM,210.555.5552,Brewing class,70.00
+1416,2025-07-19,"ORTIZ, Hannah",hannah.ortiz5@example.com,+1 210 555 5977,Pastry box,36.00
+1015,2025-07-21,"CARTER, Andre",andre.carter80@example.com,210-555-4374,Sampler pack,48.00
+1289,2025-07-21,"BROOKS, Kevin",kevin.brooks85@example.com,210.555.7381,Bag of coffee,32.00
+1358,2025-07-27,"MORGAN, Noah",NOAH.MORGAN55@EXAMPLE.COM,(210) 555-1475,Mug,14.00
+1100,2025-07-31,"CARTER, Caleb", Caleb.carter25@example.com ,210-555-2103,Bag of coffee,32.00
+1226,2025-08-03,"HUGHES, Caleb",caleb.hughes41@example.com,+1 210 555 2188,Mug,14.00
+1209,2025-08-06,"PATEL, Noah",noah.patel65@example.com,+1 210 555 8408,Brewing class,35.00
+1238,2025-08-06,"RIVERA, Erik",erik.rivera87@example.com,210-555-5237,Sampler pack,24.00
+1242,2025-08-06,"TURNER, Ben",ben.turner68@example.com,2105554372,Sampler pack,24.00
+1311,2025-08-06,"KIM, Sofia",sofia.kim10@example.com,(210) 555-3415,Mug,28.00
+1121,2025-08-12,"MORGAN, Kevin",kevin.morgan19@example.com,210.555.9899,Bag of coffee,32.00
+1193,2025-08-13,"REYES, Sofia",,(210) 555-3823,Mug,14.00
+1399,2025-08-15,"SHAH, Caleb",,210-555-2016,Sampler pack,24.00
+1124,2025-08-16,"MORGAN, Kevin",kevin.morgan19@example.com,210-555-9899,Brewing class,35.00
+1213,2025-08-18,"PATEL, Noah",NOAH.PATEL65@EXAMPLE.COM,210.555.8408,Mug,28.00
+1255,2025-08-23,"RIVERA, Priya",priya.rivera85@example.com,210.555.9110,Bag of coffee,16.00
+1257,2025-08-28,"KIM, Grace",grace.kim30@example.com,(210) 555-6614,Gift box,42.00
+1374,2025-08-30,"NGUYEN, Elena",elena.nguyen27@example.com,+1 210 555 9201,Pastry box,36.00
+1141,2025-08-31,"SHAH, Maya",maya.shah61@example.com,210-555-5246,Bag of coffee,16.00
+1096,2025-09-01,"CARTER, Sofia",sofia.carter59@example.com,(210) 555-7428,Brewing class,35.00
+1144,2025-09-01,"SHAH, Maya",,2105555246,Pastry box,36.00
+1370,2025-09-05,"NGUYEN, Elena",elena.nguyen27@example.com,(210) 555-9201,Gift box,42.00
+1345,2025-09-08,"TURNER, Peter",peter.turner33@example.com,(210) 555-7098,Mug,14.00
+1020,2025-09-10,"FLORES, Andre",andre.flores44@example.com,(210) 555-6737,Mug,14.00
+1087,2025-09-11,"FOSTER, Nina",nina.foster73@example.com,(210) 555-6220,Pastry box,18.00
+1331,2025-09-11,"WOOD, Sam",sam.wood34@example.com,210-555-6890,Brewing class,70.00
+1338,2025-09-13,"WOOD, Sam", Sam.wood34@example.com ,+1 210 555 6890,Gift box,84.00
+1267,2025-09-19,"SHAH, Luis",LUIS.SHAH56@EXAMPLE.COM,+1 210 555 3674,Gift box,42.00
+1185,2025-09-21,"HUGHES, Nina",,+1 210 555 9466,Mug,28.00
+1395,2025-09-21,"REYES, Marcus",marcus.reyes96@example.com,(210) 555-7763,Mug,14.00
+1073,2025-09-24,"BROOKS, Hannah", Hannah.brooks11@example.com ,(210) 555-3887,Gift box,84.00
+1274,2025-09-24,"WOOD, Carmen",CARMEN.WOOD86@EXAMPLE.COM,2105555619,Pastry box,18.00
+1412,2025-09-27,"CASTRO, Peter",PETER.CASTRO76@EXAMPLE.COM,(210) 555-9025,Brewing class,70.00
+1060,2025-09-29,"HUGHES, Elena",,(210) 555-5552,Gift box,84.00
+1243,2025-09-30,"TURNER, Ben",,(210) 555-4372,Mug,28.00
+1351,2025-10-02,"MORGAN, Noah",noah.morgan55@example.com,210-555-1475,Mug,14.00
+1335,2025-10-04,"WOOD, Sam",sam.wood34@example.com,(210) 555-6890,Mug,14.00
+1409,2025-10-04,"CASTRO, Peter",peter.castro76@example.com,2105559025,Brewing class,70.00
+1001,2025-10-08,"ORTIZ, Jordan",jordan.ortiz75@example.com,210-555-7499,Sampler pack,24.00
+1028,2025-10-08,"FLORES, Andre",,(210) 555-6737,Brewing class,35.00
+1437,2025-10-08,"STONE, Alex",alex.stone@example.com,(210) 555-0105,Gift box,42.00
+1086,2025-10-10,"FOSTER, Nina",nina.foster73@example.com,210.555.6220,Gift box,42.00
+1191,2025-10-10,"BROOKS, Lena",lena.brooks68@example.com,2105559364,Sampler pack,24.00
+1054,2025-10-13,"HUGHES, Elena",,210.555.5552,Sampler pack,48.00
+1104,2025-10-15,"MORGAN, Sofia",sofia.morgan61@example.com,210.555.3012,Pastry box,18.00
+1166,2025-10-16,"BROOKS, Imani", Imani.brooks79@example.com ,210-555-8771,Gift box,42.00
+1215,2025-10-16,"PATEL, Noah",,210.555.8408,Pastry box,36.00
+1200,2025-10-17,"REYES, Sofia",sofia.reyes20@example.com,2105553823,Sampler pack,48.00
+1389,2025-10-19,"FLORES, Elena", Elena.flores72@example.com ,210.555.2492,Brewing class,35.00
+1049,2025-10-20,"HUGHES, Elena",,2105555552,Brewing class,70.00
+1085,2025-10-20,"FOSTER, Nina",nina.foster73@example.com,210.555.6220,Brewing class,70.00
+1188,2025-10-24,"HUGHES, Nina",nina.hughes85@example.com,+1 210 555 9466,Mug,14.00
+1268,2025-10-24,"SHAH, Luis",luis.shah56@example.com,210-555-3674,Pastry box,36.00
+1303,2025-10-24,"TURNER, Sam",sam.turner93@example.com,(210) 555-3371,Sampler pack,48.00
+1305,2025-10-24,"RIVERA, Kevin",KEVIN.RIVERA94@EXAMPLE.COM,210.555.9282,Sampler pack,48.00
+1435,2025-10-27,"HALE, Robin",,2105550104,Mug,14.00
+1420,2025-10-28,"ORTIZ, Hannah",hannah.ortiz5@example.com,(210) 555-5977,Sampler pack,24.00
+1367,2025-10-29,"LOPEZ, Caleb",,210.555.8916,Mug,14.00
+1083,2025-10-31,"FOSTER, Nina",nina.foster73@example.com,210-555-6220,Mug,14.00
+1248,2025-11-01,"TURNER, Ben",ben.turner68@example.com,210.555.4372,Bag of coffee,16.00
+1366,2025-11-01,"LOPEZ, Caleb",caleb.lopez39@example.com,210-555-8916,Mug,14.00
+1021,2025-11-02,"FLORES, Andre",,210.555.6737,Mug,14.00
+1244,2025-11-02,"TURNER, Ben",ben.turner68@example.com,(210) 555-4372,Gift box,42.00
+1350,2025-11-03,"MORGAN, Noah",noah.morgan55@example.com,2105551475,Pastry box,36.00
+1421,2025-11-03,"ORTIZ, Hannah",hannah.ortiz5@example.com,+1 210 555 5977,Gift box,42.00
+1011,2025-11-04,"GARZA, Tara",tara.garza14@example.com,+1 210 555 4078,Mug,14.00
+1422,2025-11-04,"ORTIZ, Hannah",,210-555-5977,Gift box,84.00
+1163,2025-11-11,"BROOKS, Imani", Imani.brooks79@example.com ,210.555.8771,Bag of coffee,32.00
+1005,2025-11-14,"RIVERA, Grace", Grace.rivera19@example.com ,(210) 555-9858,Pastry box,18.00
+1368,2025-11-16,"LOPEZ, Caleb",CALEB.LOPEZ39@EXAMPLE.COM,210.555.8916,Brewing class,70.00
+1056,2025-11-21,"HUGHES, Elena",elena.hughes52@example.com,(210) 555-5552,Bag of coffee,16.00
+1102,2025-11-23,"REYES, Priya", Priya.reyes73@example.com ,+1 210 555 3478,Gift box,42.00
+1168,2025-11-24,"BROOKS, Imani", Imani.brooks79@example.com ,+1 210 555 8771,Pastry box,36.00
+1349,2025-11-25,"MORGAN, Noah", Noah.morgan55@example.com ,2105551475,Gift box,42.00
+1167,2025-11-27,"BROOKS, Imani",imani.brooks79@example.com,(210) 555-8771,Mug,14.00
+1013,2025-11-28,"CARTER, Andre",andre.carter80@example.com,2105554374,Sampler pack,48.00
+1045,2025-11-28,"TURNER, Marcus",marcus.turner17@example.com,210-555-5056,Sampler pack,48.00
+1099,2025-12-03,"CARTER, Caleb",caleb.carter25@example.com,2105552103,Pastry box,36.00
+1025,2025-12-04,"FLORES, Andre",andre.flores44@example.com,210.555.6737,Gift box,42.00
+1088,2025-12-04,"FOSTER, Nina",nina.foster73@example.com,+1 210 555 6220,Pastry box,18.00
+1089,2025-12-04,"FOSTER, Nina",,(210) 555-6220,Mug,14.00
+1381,2025-12-04,"NGUYEN, Elena",elena.nguyen27@example.com,210.555.9201,Pastry box,36.00
+1202,2025-12-05,"CARTER, Lena",lena.carter42@example.com,2105559492,Pastry box,18.00
+1365,2025-12-05,"SINGH, Yuki",yuki.singh17@example.com,2105553797,Pastry box,18.00
+1382,2025-12-08,"NGUYEN, Elena",elena.nguyen27@example.com,2105559201,Brewing class,35.00
+1424,2025-12-11,"ORTIZ, Hannah",hannah.ortiz5@example.com,(210) 555-5977,Gift box,84.00
+1143,2025-12-14,"SHAH, Maya",maya.shah61@example.com,210-555-5246,Gift box,42.00
+1288,2025-12-15,"BROOKS, Kevin",kevin.brooks85@example.com,210-555-7381,Bag of coffee,16.00
+1282,2025-12-16,"FLORES, Lena",,2105551564,Bag of coffee,16.00
+1315,2025-12-18,"PATEL, Tara",tara.patel89@example.com,2105554566,Mug,14.00
+1082,2025-12-21,"FOSTER, Nina",,(210) 555-6220,Pastry box,36.00
+1413,2025-12-21,"CASTRO, Peter",peter.castro76@example.com,210.555.9025,Pastry box,36.00
+1246,2025-12-22,"TURNER, Ben",,2105554372,Mug,14.00
+1235,2025-12-23,"MORGAN, Julia",julia.morgan3@example.com,2105556537,Brewing class,35.00
+1391,2025-12-24,"REYES, Marcus",marcus.reyes96@example.com,+1 210 555 7763,Pastry box,18.00
+1032,2025-12-27,"ORTIZ, Ben",,+1 210 555 8301,Brewing class,70.00
+1328,2025-12-27,"WOOD, Sam",SAM.WOOD34@EXAMPLE.COM,210.555.6890,Pastry box,36.00
+1302,2025-12-28,"TURNER, Sam",sam.turner93@example.com,2105553371,Bag of coffee,16.00
+1003,2025-12-30,"ORTIZ, Jordan",jordan.ortiz75@example.com,(210) 555-7499,Sampler pack,48.00
+1431,2025-12-30,"YOUNG, Chris",,210-555-0102,Gift box,42.00
+1125,2026-01-01,"MORGAN, Kevin",kevin.morgan19@example.com,2105559899,Mug,14.00
+1204,2026-01-01,"CARTER, Lena", Lena.carter42@example.com ,210.555.9492,Sampler pack,24.00
+1301,2026-01-03,"TURNER, Sam",,+1 210 555 3371,Pastry box,36.00
+1203,2026-01-05,"CARTER, Lena",,210.555.9492,Mug,14.00
+1016,2026-01-06,"TURNER, Tom",tom.turner78@example.com,(210) 555-2199,Bag of coffee,32.00
+1291,2026-01-06,"BROOKS, Kevin",kevin.brooks85@example.com,210-555-7381,Brewing class,35.00
+1117,2026-01-07,"MORGAN, Kevin",kevin.morgan19@example.com,2105559899,Mug,14.00
+1084,2026-01-10,"FOSTER, Nina",nina.foster73@example.com,210.555.6220,Mug,14.00
+1031,2026-01-11,"ORTIZ, Ben",ben.ortiz88@example.com,2105558301,Brewing class,70.00
+1002,2026-01-12,"ORTIZ, Jordan",jordan.ortiz75@example.com,2105557499,Sampler pack,48.00
+1227,2026-01-12,"HUGHES, Caleb",caleb.hughes41@example.com,(210) 555-2188,Gift box,42.00
+1241,2026-01-12,"TURNER, Ben", Ben.turner68@example.com ,(210) 555-4372,Brewing class,70.00
+1423,2026-01-13,"ORTIZ, Hannah",hannah.ortiz5@example.com,210-555-5977,Brewing class,35.00
+1160,2026-01-15,"FLORES, Ben",,2105557485,Bag of coffee,16.00
+1233,2026-01-15,"MORGAN, Julia",,210.555.6537,Gift box,42.00
+1324,2026-01-15,"CASTRO, Yuki",yuki.castro3@example.com,(210) 555-5744,Sampler pack,48.00
+1230,2026-01-17,"PATEL, Hannah",hannah.patel51@example.com,(210) 555-8983,Sampler pack,24.00
+1407,2026-01-17,"RIVERA, Tom",tom.rivera40@example.com,+1 210 555 1357,Gift box,42.00
+1430,2026-01-17,"PRICE, Dana",dana.price@example.com,210.555.0101,Gift box,42.00
+1384,2026-01-19,"NGUYEN, Elena",elena.nguyen27@example.com,210-555-9201,Mug,14.00
+1371,2026-01-21,"NGUYEN, Elena",elena.nguyen27@example.com,(210) 555-9201,Sampler pack,48.00
+1320,2026-01-23,"CASTRO, Yuki",yuki.castro3@example.com,(210) 555-5744,Brewing class,35.00
+1281,2026-01-25,"FLORES, Lena",lena.flores32@example.com,210.555.1564,Sampler pack,24.00
+1277,2026-01-26,"FLORES, Lena",,2105551564,Pastry box,18.00
+1321,2026-01-26,"CASTRO, Yuki",YUKI.CASTRO3@EXAMPLE.COM,2105555744,Brewing class,70.00
+1043,2026-01-27,"TURNER, Marcus",MARCUS.TURNER17@EXAMPLE.COM,+1 210 555 5056,Mug,28.00
+1405,2026-01-27,"RIVERA, Tom",tom.rivera40@example.com,(210) 555-1357,Bag of coffee,32.00
+1284,2026-01-28,"REYES, Elena", Elena.reyes43@example.com ,2105557252,Gift box,84.00
+1006,2026-01-30,"RIVERA, Grace",,210.555.9858,Pastry box,36.00
+1041,2026-02-02,"TURNER, Marcus",marcus.turner17@example.com,2105555056,Bag of coffee,16.00
+1027,2026-02-03,"FLORES, Andre",andre.flores44@example.com,210.555.6737,Sampler pack,24.00
+1433,2026-02-03,"ELLIS, Pat",pat.ellis@example.com,210-555-0103,Bag of coffee,16.00
+1174,2026-02-04,"ORTIZ, Noah",,(210) 555-5249,Sampler pack,24.00
+1195,2026-02-05,"REYES, Sofia",sofia.reyes20@example.com,+1 210 555 3823,Brewing class,35.00
+1189,2026-02-07,"HUGHES, Nina",nina.hughes85@example.com,2105559466,Brewing class,70.00
+1017,2026-02-08,"TURNER, Tom",,+1 210 555 2199,Mug,28.00
+1137,2026-02-10,"KIM, Imani", Imani.kim31@example.com ,+1 210 555 7564,Gift box,42.00
+1279,2026-02-11,"FLORES, Lena",lena.flores32@example.com,+1 210 555 1564,Bag of coffee,16.00
+1237,2026-02-13,"MORGAN, Julia",JULIA.MORGAN3@EXAMPLE.COM,210-555-6537,Bag of coffee,16.00
+1162,2026-02-17,"GARZA, Julia",JULIA.GARZA22@EXAMPLE.COM,+1 210 555 3081,Sampler pack,24.00
+1363,2026-02-17,"RIVERA, Yuki",yuki.rivera58@example.com,2105553270,Mug,14.00
+1393,2026-02-18,"REYES, Marcus", Marcus.reyes96@example.com ,210-555-7763,Gift box,42.00
+1262,2026-02-19,"KIM, Grace",,+1 210 555 6614,Gift box,42.00
+1090,2026-02-20,"FOSTER, Nina",NINA.FOSTER73@EXAMPLE.COM,+1 210 555 6220,Sampler pack,48.00
+1292,2026-02-20,"TURNER, Sam",SAM.TURNER93@EXAMPLE.COM,210.555.3371,Bag of coffee,32.00
+1312,2026-02-24,"KIM, Sofia",sofia.kim10@example.com,(210) 555-3415,Bag of coffee,16.00
+1436,2026-02-24,"STONE, Alex",alex.stone@example.com,(210) 555-0105,Gift box,42.00
+1034,2026-02-26,"TURNER, Marcus", Marcus.turner17@example.com ,2105555056,Sampler pack,48.00
+1417,2026-02-27,"ORTIZ, Hannah",,2105555977,Sampler pack,24.00
+1071,2026-03-01,"BROOKS, Hannah", Hannah.brooks11@example.com ,2105553887,Mug,28.00
+1364,2026-03-02,"RIVERA, Yuki",yuki.rivera58@example.com,2105553270,Mug,14.00
+1295,2026-03-06,"TURNER, Sam", Sam.turner93@example.com ,2105553371,Bag of coffee,32.00
+1390,2026-03-06,"REYES, Marcus",marcus.reyes96@example.com,210.555.7763,Pastry box,18.00
+1190,2026-03-07,"BROOKS, Lena",LENA.BROOKS68@EXAMPLE.COM,210.555.9364,Brewing class,35.00
+1283,2026-03-07,"FLORES, Lena",lena.flores32@example.com,210.555.1564,Brewing class,70.00
+1325,2026-03-10,"SHAH, Tom",tom.shah50@example.com,(210) 555-4437,Gift box,42.00
+1388,2026-03-11,"FLORES, Elena",elena.flores72@example.com,2105552492,Sampler pack,24.00
+1018,2026-03-13,"FLORES, Andre", Andre.flores44@example.com ,(210) 555-6737,Bag of coffee,16.00
+1217,2026-03-13,"PATEL, Noah",,+1 210 555 8408,Sampler pack,48.00
+1319,2026-03-13,"CASTRO, Yuki",yuki.castro3@example.com,2105555744,Bag of coffee,16.00
+1181,2026-03-15,"ORTIZ, Noah",noah.ortiz42@example.com,210.555.5249,Sampler pack,48.00
+1337,2026-03-15,"WOOD, Sam",SAM.WOOD34@EXAMPLE.COM,(210) 555-6890,Mug,14.00
+1401,2026-03-15,"SHAH, Caleb",,210-555-2016,Mug,14.00
+1058,2026-03-18,"HUGHES, Elena",elena.hughes52@example.com,(210) 555-5552,Pastry box,18.00
+1067,2026-03-27,"HUGHES, Elena",elena.hughes52@example.com,210.555.5552,Bag of coffee,16.00
+1306,2026-03-27,"CASTRO, Luis",luis.castro33@example.com,2105552219,Brewing class,35.00
+1081,2026-03-28,"FOSTER, Nina",nina.foster73@example.com,(210) 555-6220,Brewing class,35.00
+1259,2026-03-29,"KIM, Grace",grace.kim30@example.com,2105556614,Bag of coffee,16.00
+1172,2026-03-30,"KIM, Carmen",,+1 210 555 1458,Gift box,42.00
+1294,2026-03-30,"TURNER, Sam",,210.555.3371,Pastry box,36.00
+1293,2026-04-01,"TURNER, Sam",sam.turner93@example.com,210.555.3371,Mug,14.00
+1030,2026-04-03,"ORTIZ, Ben",,210-555-8301,Pastry box,18.00
+1036,2026-04-03,"TURNER, Marcus", Marcus.turner17@example.com ,+1 210 555 5056,Gift box,42.00
+1326,2026-04-03,"SHAH, Tom",tom.shah50@example.com,(210) 555-4437,Gift box,42.00
+1360,2026-04-03,"RIVERA, Yuki", Yuki.rivera58@example.com ,2105553270,Bag of coffee,16.00
+1212,2026-04-05,"PATEL, Noah",noah.patel65@example.com,(210) 555-8408,Mug,14.00
+1250,2026-04-05,"WOOD, Julia",julia.wood71@example.com,210-555-4104,Bag of coffee,32.00
+1128,2026-04-06,"MORGAN, Kevin",kevin.morgan19@example.com,210.555.9899,Sampler pack,24.00
+1361,2026-04-07,"RIVERA, Yuki",yuki.rivera58@example.com,210.555.3270,Mug,14.00
+1239,2026-04-09,"RIVERA, Erik",erik.rivera87@example.com,+1 210 555 5237,Mug,14.00
+1385,2026-04-12,"NGUYEN, Elena",,+1 210 555 9201,Bag of coffee,16.00
+1236,2026-04-14,"MORGAN, Julia",julia.morgan3@example.com,210.555.6537,Gift box,42.00
+1428,2026-04-15,"RIVERA, Maya",,(210) 555-6036,Bag of coffee,32.00
+1426,2026-04-16,"KIM, Andre", Andre.kim50@example.com ,+1 210 555 5274,Mug,28.00
+1278,2026-04-17,"FLORES, Lena",,+1 210 555 1564,Mug,28.00
+1333,2026-04-17,"WOOD, Sam",,210-555-6890,Mug,28.00
+1234,2026-04-18,"MORGAN, Julia",,+1 210 555 6537,Mug,14.00
+1411,2026-04-18,"CASTRO, Peter",peter.castro76@example.com,2105559025,Pastry box,18.00
+1103,2026-04-19,"KIM, Luis",luis.kim79@example.com,210-555-7164,Bag of coffee,32.00
+1146,2026-04-19,"MORGAN, Tom",tom.morgan47@example.com,210-555-2319,Sampler pack,24.00
+1164,2026-04-19,"BROOKS, Imani",IMANI.BROOKS79@EXAMPLE.COM,(210) 555-8771,Sampler pack,48.00
+1177,2026-04-24,"ORTIZ, Noah",noah.ortiz42@example.com,(210) 555-5249,Mug,14.00
+1062,2026-04-26,"HUGHES, Elena",elena.hughes52@example.com,2105555552,Pastry box,18.00
+1109,2026-04-29,"MORGAN, Sofia",,(210) 555-3012,Gift box,42.00
+1037,2026-04-30,"TURNER, Marcus",marcus.turner17@example.com,+1 210 555 5056,Gift box,84.00
+1231,2026-04-30,"MORGAN, Julia",julia.morgan3@example.com,2105556537,Gift box,42.00
+1275,2026-04-30,"FLORES, Lena",LENA.FLORES32@EXAMPLE.COM,210.555.1564,Bag of coffee,32.00
+1427,2026-05-02,"KIM, Andre",andre.kim50@example.com,210-555-5274,Brewing class,35.00
+1313,2026-05-03,"PATEL, Tara",tara.patel89@example.com,+1 210 555 4566,Pastry box,18.00
+1106,2026-05-04,"MORGAN, Sofia",,210.555.3012,Sampler pack,24.00
+1247,2026-05-04,"TURNER, Ben",ben.turner68@example.com,210-555-4372,Brewing class,35.00
+1050,2026-05-05,"HUGHES, Elena", Elena.hughes52@example.com ,210.555.5552,Pastry box,18.00
+1308,2026-05-05,"CASTRO, Luis",luis.castro33@example.com,(210) 555-2219,Pastry box,18.00
+1387,2026-05-08,"FLORES, Elena",,2105552492,Sampler pack,48.00
+1065,2026-05-09,"HUGHES, Elena",elena.hughes52@example.com,210.555.5552,Gift box,42.00
+1369,2026-05-09,"NGUYEN, Elena",elena.nguyen27@example.com,(210) 555-9201,Brewing class,70.00
+1245,2026-05-10,"TURNER, Ben", Ben.turner68@example.com ,210.555.4372,Sampler pack,24.00
+1135,2026-05-14,"SINGH, Hannah",hannah.singh70@example.com,(210) 555-9236,Bag of coffee,16.00
+1008,2026-05-15,"RIVERA, Grace",grace.rivera19@example.com,210.555.9858,Pastry box,18.00
+1254,2026-05-16,"RIVERA, Priya",priya.rivera85@example.com,+1 210 555 9110,Mug,14.00
+1357,2026-05-16,"MORGAN, Noah",noah.morgan55@example.com,2105551475,Gift box,42.00
+1134,2026-05-18,"SINGH, Hannah", Hannah.singh70@example.com ,(210) 555-9236,Gift box,42.00
+1249,2026-05-19,"WOOD, Julia",julia.wood71@example.com,(210) 555-4104,Gift box,42.00
+1415,2026-05-19,"ORTIZ, Hannah", Hannah.ortiz5@example.com ,2105555977,Bag of coffee,16.00
+1105,2026-05-20,"MORGAN, Sofia",,(210) 555-3012,Bag of coffee,32.00
+1398,2026-05-20,"SHAH, Caleb",,2105552016,Pastry box,36.00
+1309,2026-05-22,"KIM, Sofia",SOFIA.KIM10@EXAMPLE.COM,+1 210 555 3415,Mug,14.00
+1228,2026-05-23,"PATEL, Grace",,210-555-6999,Brewing class,35.00
+1139,2026-05-25,"SHAH, Maya",,210-555-5246,Brewing class,35.00
+1218,2026-05-25,"PATEL, Noah",,2105558408,Pastry box,18.00
+1107,2026-05-26,"MORGAN, Sofia",,2105553012,Sampler pack,48.00
+1201,2026-05-28,"CARTER, Lena",lena.carter42@example.com,+1 210 555 9492,Mug,28.00
+1256,2026-05-28,"KIM, Grace",grace.kim30@example.com,(210) 555-6614,Sampler pack,24.00
+1223,2026-05-29,"WOOD, Tom",,(210) 555-8832,Bag of coffee,16.00
+1280,2026-05-30,"FLORES, Lena",lena.flores32@example.com,210-555-1564,Gift box,42.00
+1068,2026-05-31,"SHAH, Lena",LENA.SHAH91@EXAMPLE.COM,210.555.7804,Mug,28.00
+1074,2026-06-01,"ORTIZ, Erik",,2105555304,Sampler pack,24.00
+1145,2026-06-01,"MORGAN, Tom",tom.morgan47@example.com,210-555-2319,Gift box,42.00
+1004,2026-06-03,"ORTIZ, Jordan",jordan.ortiz75@example.com,2105557499,Pastry box,36.00
+1304,2026-06-04,"TURNER, Sam",,2105553371,Sampler pack,48.00
+1075,2026-06-07,"ORTIZ, Erik",ERIK.ORTIZ24@EXAMPLE.COM,2105555304,Brewing class,35.00
+1114,2026-06-07,"SHAH, Julia", Julia.shah62@example.com ,2105553645,Sampler pack,24.00
+1359,2026-06-07,"RIVERA, Yuki",yuki.rivera58@example.com,2105553270,Bag of coffee,32.00
+1097,2026-06-08,"CARTER, Sofia",,(210) 555-7428,Sampler pack,24.00
+1098,2026-06-12,"CARTER, Sofia",sofia.carter59@example.com,(210) 555-7428,Pastry box,36.00
+1149,2026-06-12,"PATEL, Erik", Erik.patel50@example.com ,210.555.4265,Bag of coffee,16.00
+1147,2026-06-14,"MORGAN, Tom",tom.morgan47@example.com,(210) 555-2319,Bag of coffee,16.00
+1165,2026-06-16,"BROOKS, Imani",imani.brooks79@example.com,+1 210 555 8771,Brewing class,35.00
+1379,2026-06-16,"NGUYEN, Elena", Elena.nguyen27@example.com ,210.555.9201,Sampler pack,48.00
+1432,2026-06-16,"ELLIS, Pat",pat.ellis@example.com,(210) 555-0103,Sampler pack,24.00
+1035,2026-06-20,"TURNER, Marcus",MARCUS.TURNER17@EXAMPLE.COM,2105555056,Mug,28.00
+1383,2026-06-23,"NGUYEN, Elena",elena.nguyen27@example.com,210-555-9201,Gift box,84.00
+1170,2026-06-24,"REYES, Sam",sam.reyes2@example.com,+1 210 555 2683,Bag of coffee,32.00
+1173,2026-06-25,"KIM, Carmen",CARMEN.KIM28@EXAMPLE.COM,2105551458,Gift box,84.00
+1419,2026-07-01,"ORTIZ, Hannah",HANNAH.ORTIZ5@EXAMPLE.COM,2105555977,Mug,14.00
+1400,2026-07-03,"SHAH, Caleb",caleb.shah44@example.com,+1 210 555 2016,Sampler pack,24.00
+1225,2026-07-04,"WOOD, Tom",tom.wood69@example.com,210-555-8832,Bag of coffee,32.00
+1394,2026-07-05,"REYES, Marcus",,(210) 555-7763,Brewing class,35.00
+1346,2026-07-06,"TURNER, Peter",peter.turner33@example.com,(210) 555-7098,Pastry box,18.00
+1110,2026-07-07,"CASTRO, Tom",tom.castro62@example.com,2105556109,Pastry box,18.00
+1080,2026-07-08,"FOSTER, Nina",nina.foster73@example.com,210.555.6220,Bag of coffee,16.00
+1119,2026-07-08,"MORGAN, Kevin", Kevin.morgan19@example.com ,210.555.9899,Brewing class,70.00
+1091,2026-07-10,"FOSTER, Nina",nina.foster73@example.com,+1 210 555 6220,Brewing class,70.00
+1307,2026-07-10,"CASTRO, Luis",luis.castro33@example.com,210.555.2219,Gift box,42.00
+1438,2026-07-10,"STONE, Alex",alex.stone@example.com,210.555.0105,Brewing class,35.00
+1161,2026-07-11,"FLORES, Ben",ben.flores12@example.com,210.555.7485,Mug,14.00
+1285,2026-07-11,"REYES, Elena",elena.reyes43@example.com,2105557252,Bag of coffee,16.00
+1022,2026-07-13,"FLORES, Andre",andre.flores44@example.com,(210) 555-6737,Brewing class,35.00
+1251,2026-07-13,"WOOD, Julia",julia.wood71@example.com,2105554104,Bag of coffee,16.00
+1355,2026-07-13,"MORGAN, Noah",noah.morgan55@example.com,210-555-1475,Gift box,42.00
+1208,2026-07-14,"PATEL, Noah",noah.patel65@example.com,+1 210 555 8408,Brewing class,70.00
+1253,2026-07-15,"RIVERA, Priya", Priya.rivera85@example.com ,2105559110,Gift box,84.00
+1171,2026-07-20,"REYES, Sam",,2105552683,Bag of coffee,16.00
+1429,2026-07-20,"RIVERA, Maya",,+1 210 555 6036,Gift box,84.00
+1194,2026-07-22,"REYES, Sofia",sofia.reyes20@example.com,(210) 555-3823,Bag of coffee,32.00
+1094,2026-07-23,"CARTER, Sofia",sofia.carter59@example.com,210.555.7428,Bag of coffee,32.00
+1404,2026-07-23,"KIM, Kevin", Kevin.kim12@example.com ,2105555440,Brewing class,35.00
+1136,2026-07-24,"KIM, Imani",,210-555-7564,Brewing class,35.00
+1111,2026-07-26,"SHAH, Julia",JULIA.SHAH62@EXAMPLE.COM,+1 210 555 3645,Mug,14.00
+1240,2026-07-26,"LOPEZ, Kevin",kevin.lopez15@example.com,2105553645,Pastry box,36.00
+1169,2026-07-28,"BROOKS, Imani",imani.brooks79@example.com,(210) 555-8771,Brewing class,35.00
+1205,2026-07-28,"CARTER, Lena",lena.carter42@example.com,210-555-9492,Sampler pack,24.00
+1113,2026-07-30,"SHAH, Julia", Julia.shah62@example.com ,2105553645,Brewing class,70.00
+1287,2026-07-31,"BROOKS, Kevin",kevin.brooks85@example.com,210.555.7381,Bag of coffee,16.00
+1180,2026-08-01,"ORTIZ, Noah",noah.ortiz42@example.com,(210) 555-5249,Brewing class,35.00
+1252,2026-08-02,"WOOD, Julia",,(210) 555-4104,Mug,28.00
+1112,2026-08-05,"SHAH, Julia",julia.shah62@example.com,+1 210 555 3645,Pastry box,18.00
+1397,2026-08-05,"SHAH, Caleb",CALEB.SHAH44@EXAMPLE.COM,2105552016,Mug,14.00
+1406,2026-08-10,"RIVERA, Tom",tom.rivera40@example.com,+1 210 555 1357,Mug,14.00
+1046,2026-08-14,"HUGHES, Elena",elena.hughes52@example.com,210-555-5552,Pastry box,36.00
+1232,2026-08-14,"MORGAN, Julia",,210-555-6537,Gift box,42.00
+1434,2026-08-14,"ELLIS, Pat",pat.ellis@example.com,2105550103,Bag of coffee,16.00
+1348,2026-08-16,"MORGAN, Noah",,+1 210 555 1475,Sampler pack,48.00
+1095,2026-08-20,"CARTER, Sofia", Sofia.carter59@example.com ,(210) 555-7428,Mug,14.00
+1362,2026-08-22,"RIVERA, Yuki",yuki.rivera58@example.com,2105553270,Gift box,42.00
+1064,2026-08-24,"HUGHES, Elena",elena.hughes52@example.com,210.555.5552,Gift box,42.00
+1425,2026-08-25,"RIVERA, Ben",ben.rivera90@example.com,210.555.2837,Bag of coffee,16.00
+1009,2026-08-28,"RIVERA, Grace",,+1 210 555 9858,Gift box,42.00
+1403,2026-08-29,"SHAH, Caleb", Caleb.shah44@example.com ,210.555.2016,Mug,14.00
+1078,2026-09-03,"FOSTER, Nina",nina.foster73@example.com,2105556220,Mug,28.00
+1159,2026-09-06,"FLORES, Ben",ben.flores12@example.com,210.555.7485,Bag of coffee,32.00
+1314,2026-09-07,"PATEL, Tara", Tara.patel89@example.com ,2105554566,Pastry box,18.00
+1029,2026-09-10,"FLORES, Andre",andre.flores44@example.com,2105556737,Bag of coffee,16.00
+1373,2026-09-10,"NGUYEN, Elena",elena.nguyen27@example.com,(210) 555-9201,Brewing class,35.00
+1260,2026-09-14,"KIM, Grace",grace.kim30@example.com,2105556614,Sampler pack,48.00
+1378,2026-09-14,"NGUYEN, Elena",,(210) 555-9201,Bag of coffee,16.00
+1376,2026-09-16,"NGUYEN, Elena",elena.nguyen27@example.com,210-555-9201,Gift box,84.00
+1410,2026-09-16,"CASTRO, Peter",,+1 210 555 9025,Bag of coffee,16.00
+1258,2026-09-17,"KIM, Grace",grace.kim30@example.com,210-555-6614,Pastry box,18.00
+1224,2026-09-18,"WOOD, Tom",tom.wood69@example.com,2105558832,Sampler pack,24.00
+1033,2026-09-19,"ORTIZ, Ben",ben.ortiz88@example.com,210.555.8301,Sampler pack,48.00
+1197,2026-09-21,"REYES, Sofia",sofia.reyes20@example.com,2105553823,Mug,14.00
+1120,2026-09-22,"MORGAN, Kevin",kevin.morgan19@example.com,(210) 555-9899,Bag of coffee,32.00
+1007,2026-09-24,"RIVERA, Grace", Grace.rivera19@example.com ,+1 210 555 9858,Mug,28.00
+1402,2026-09-25,"SHAH, Caleb",,210-555-2016,Mug,14.00
+1353,2026-09-26,"MORGAN, Noah",noah.morgan55@example.com,(210) 555-1475,Gift box,84.00
+1276,2026-09-27,"FLORES, Lena", Lena.flores32@example.com ,210-555-1564,Pastry box,18.00
+1344,2026-09-27,"TURNER, Peter",peter.turner33@example.com,2105557098,Brewing class,35.00
+1012,2026-09-28,"CARTER, Andre",,(210) 555-4374,Pastry box,18.00
+1375,2026-09-28,"NGUYEN, Elena",elena.nguyen27@example.com,(210) 555-9201,Bag of coffee,16.00
+1418,2026-09-29,"ORTIZ, Hannah", Hannah.ortiz5@example.com ,(210) 555-5977,Gift box,42.00
+1269,2026-09-30,"SHAH, Luis",luis.shah56@example.com,2105553674,Gift box,42.00
+1408,2026-09-30,"RIVERA, Tom",TOM.RIVERA40@EXAMPLE.COM,210-555-1357,Pastry box,18.00
